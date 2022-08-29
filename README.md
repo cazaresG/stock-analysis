@@ -1,4 +1,4 @@
-# stock-analysis
+# Stock Analysis
 Challenge 2
 
 ## Overview of Project
