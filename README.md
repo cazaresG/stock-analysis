@@ -11,6 +11,6 @@ Challenge 2
 
 - Advantages of refactoring code
 
-- Pros and Cons of the refactores code
+- Pros and Cons of the refactored code
 
 
